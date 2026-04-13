@@ -145,6 +145,6 @@ Using SQL, this project identifies:
 ## 👨‍💻 Author
 
 **Sai Naren Burgula**
-SQL | Data Analysis | Telecom Domain
+SQL | Data Analysis | Telecom Domain 
 
 ---
